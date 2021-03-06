@@ -1,3 +1,9 @@
+.header {
+  background-color: #F1F1F1;
+ 
+  padding: 20px;
+}
+
 body {
 	flex-direction: column;
 	display: flex;
@@ -34,4 +40,9 @@ h1 {
   display: block;
   /* Make sure max-width is added */
   max-width: 100%;
+}
+.footer {
+  background-color: #F1F1F1;
+ 
+  padding: 20px;
 }
