@@ -41,6 +41,12 @@ h1 {
   /* Make sure max-width is added */
   max-width: 100%;
 }
+
+div {
+  background-image: url('https://user-images.githubusercontent.com/42610692/110224818-1c7ae900-7ef0-11eb-99b2-419cf6462c9b.jpg');
+}
+
+
 .footer {
   background-color: #F1F1F1;
  
