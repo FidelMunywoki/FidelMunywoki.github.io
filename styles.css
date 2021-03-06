@@ -19,3 +19,19 @@ main{
 h1 {
 	color: blue;
 }
+
+.brands {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-gap: 1rem;
+}
+
+.brands__item {
+  background: #eee;
+}
+
+.brands__item img {
+  display: block;
+  /* Make sure max-width is added */
+  max-width: 100%;
+}
