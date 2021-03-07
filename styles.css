@@ -10,18 +10,10 @@ body {
 	background-color: grey;
 
 }
-article {
-	flex: 2;
-	overflow-y: auto;
-
-}
 
 
-main{
-	display: flex;
-	flex-direction: row;
-	flex: auto;
-}
+
+
 h1 {
 	color: blue;
 }
