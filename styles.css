@@ -7,7 +7,7 @@
 body {
 	flex-direction: column;
 	display: flex;
-	background-image: url('https://user-images.githubusercontent.com/42610692/110224818-1c7ae900-7ef0-11eb-99b2-419cf6462c9b.jpg');
+	background-color: cyan;
 
 }
 article {
