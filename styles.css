@@ -5,8 +5,7 @@ header {
 }
 
 body {
-	flex-direction: column;
-	display: flex;
+	
 	background-color: grey;
 
 }
