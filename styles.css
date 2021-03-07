@@ -7,7 +7,7 @@
 body {
 	flex-direction: column;
 	display: flex;
-	background-color: cyan;
+	background-color: grey;
 
 }
 article {
@@ -15,10 +15,8 @@ article {
 	overflow-y: auto;
 
 }
-aside {
-	flex: 1;
-	overflow-y: auto;
-}
+
+
 main{
 	display: flex;
 	flex-direction: row;
