@@ -1,12 +1,12 @@
 header {
-  background-color: white;
+  background-color: grey;
  
   padding: 20px;
 }
 
 body {
 	
-	background-color: grey;
+	background-color: white;
 
 }
 
@@ -49,7 +49,7 @@ h1 {
 
 
 footer {
-  background-color: white;
+  background-color: grey;
  
   padding: 20px;
 }
